@@ -775,6 +775,10 @@ font-family: 'Cinzel', serif;
 }
 
 
+body {
+ 
+  overflow-x:hidden 
+}
 @media only screen and (max-width: 600px){
 
   
