@@ -808,14 +808,14 @@ body {
     left: 40px;
   }
   
- .dropbtn1{
+  .dropbtn1{
     top: -490px;
-    left: 3%;
+    left: -10px;
     opacity: 1;
   }
   .dropbtn2{
     top: -490px;
-    left: -89%;
+    left: -145px;
     opacity: 1;
   }
   .mouse{
