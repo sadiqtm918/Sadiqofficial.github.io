@@ -805,14 +805,14 @@ font-family: 'Cinzel', serif;
     left: 40px;
   }
   
-  .dropbtn1{
-    top: -510px;
+ .dropbtn1{
+    top: -490px;
     left: 3%;
     opacity: 1;
   }
   .dropbtn2{
-    top: -510px;
-    left: -130px;
+    top: -490px;
+    left: -89%;
     opacity: 1;
   }
   .mouse{
