@@ -501,9 +501,7 @@ font-family: 'Cinzel', serif;
   background: #010e1a;
   transition: 0.9s ease;
 }
-.footbox:hover{
-  height: 770px;
-}
+
 .footbox h2{
   position: relative;
   top: 90px;
