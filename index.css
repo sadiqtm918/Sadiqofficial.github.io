@@ -810,12 +810,12 @@ body {
   
   .dropbtn1{
     top: -490px;
-    left: -10px;
+    left: 3%;
     opacity: 1;
   }
  .dropbtn2{
     top: -490px;
-    left: -120px;
+    left: 6%;
     opacity: 1;
   }
   .mouse{
@@ -833,7 +833,7 @@ body {
   }
   .box h2{
     left: 10px;
-    font-size: 90px;
+    font-size: 70px;
   }
   .inner-boxin img{
     top: 80px;
@@ -855,7 +855,7 @@ body {
     font-size: 25px;
   }
   .middle-box h1{
-    font-size: 80px;
+    font-size: 70px;
     top: -1300px;
     left:30px;
   }
@@ -986,7 +986,7 @@ body {
 .footbox h4{
   top: 80px;
   left: 10px;
-  font-size: 70px;
+  font-size: 58px;
 }
 .location{
   left: 45px;
